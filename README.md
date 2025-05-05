@@ -10,7 +10,6 @@
       <p style="text-align: justify;">
        Hey folks! 
       I’m a Full Stack Developer with 6+ years of experience building fast, scalable apps using React, Node.js and AWS. I love diving into both front-end and back-end challenges, whether it’s crafting smooth user experiences or building solid APIs behind the scenes.
-      
       I’m all about clean code, smart solutions, and working with awesome teams to bring cool ideas to life. Right now, I’m on the lookout for new opportunities where I can learn, grow, and make an impact.
       </p>
     </div>
